@@ -18,14 +18,12 @@ The objective of the report is to analyze and present comprehensive insights int
 
 **Steps to follow for an end-to-end Power BI Project:**
 
-1) Gather Data
-Collect the necessary data. This could include data from various sources such as databases, spreadsheets, or web services.
+1) Gather Data - Collect the necessary data. This could include data from various sources such as databases, spreadsheets, or web services.
 
 2) Power Query – Data Extract, Transform & Load
 Power Query Editor in Power BI is a powerful tool for data cleaning and transformation. Used it to Clean and transform the data to make it suitable for analysis. This may involve removing duplicates, handling missing values, merging datasets, or creating calculated columns.
 
-3) Create a Date Table
-To work with Data Analysis Expressions (DAX) time intelligence functions, there’s a prerequisite model requirement:
+3) Create a Date Table - To work with Data Analysis Expressions (DAX) time intelligence functions, there’s a prerequisite model requirement:
 Code for Creating Date Table in Power BI:
 
 ```
@@ -47,11 +45,9 @@ ADDCOLUMNS (
 )
 ```
 
-4) Create Data Model in Power BI Desktop
-Design and create a data model that represents the relationships between different tables in your data. Establish proper relationships, define keys, and establish hierarchies if needed. This step is crucial for accurate analysis and visualization
+4) Create Data Model in Power BI Desktop - Design and create a data model that represents the relationships between different tables in your data. Establish proper relationships, define keys, and establish hierarchies if needed. This step is crucial for accurate analysis and visualization
 
-5) Develop Reports in Power BI Desktop
-Use the Power BI Desktop application to create reports based on the data model. Add visualizations such as charts, tables, and maps to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
+5) Develop Reports in Power BI Desktop - Use the Power BI Desktop application to create reports based on the data model. Add visualizations such as charts, tables, and maps to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
 
 * Create Report Background in PowerPoint
 * Create Slicers – Date, City, Product, and Channel
