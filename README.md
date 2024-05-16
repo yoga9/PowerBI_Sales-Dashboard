@@ -47,7 +47,7 @@ ADDCOLUMNS (
 
 4) Create Data Model in Power BI Desktop - Design and create a data model that represents the relationships between different tables in data. This step is crucial for accurate analysis and visualization.
 
-5) Develop Reports in Power BI Desktop - Use the Power BI Desktop application to create reports based on the data model. Add visualizations such as charts, tables, and maps to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
+5) Develop Reports in Power BI Desktop - Use the Power BI Desktop application to create reports based on the data model. Add visualizations such as charts, tables to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
 
 * Create Report Background in PowerPoint
 * Create Slicers – Date, City, Product, and Channel
