@@ -76,6 +76,7 @@ Sales PY = CALCULATE([Sales], SAMEPERIODLASTYEAR(DateTable[Date]))
 Sales vs PY = [Sales] - [Sales PY]
 
 //Percentage Increase or Decrease in sales year on year (YOY%)
+```
  Sales vs py % = DIVIDE([Sales vs PY],[Sales],0)
  Products Sold = SUM(Sales_Data[Order Quantity])
  Profit = SUM(Sales_Data[Profit]) 
@@ -83,8 +84,9 @@ Sales vs PY = [Sales] - [Sales PY]
  Profit Vs LY = [Profit]- [Profit LY]
  Profit vs LY % = [Profit Vs LY]/[Profit]
  Profit Margin = DIVIDE([Profit],[Sales],0)
- Total Cost = SUM(Sales_Data[Total Cost]) 
+ Total Cost = SUM(Sales_Data[Total Cost])
 
+```
 ### Snapshot of Sales Dashboard (PowerBI Desktop)
 
 ![Sales Dashboard-1](https://github.com/yoga9/PowerBI_Sales-Dashboard/assets/80407876/d4a4c764-c45e-4cc1-a965-fec9b832e913)
