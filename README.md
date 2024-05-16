@@ -76,18 +76,18 @@ Sales PY = CALCULATE([Sales], SAMEPERIODLASTYEAR(DateTable[Date]))
 Sales vs PY = [Sales] - [Sales PY]
 
 //Percentage Increase or Decrease in sales year on year (YOY%)
-Sales vs py % = DIVIDE([Sales vs PY],[Sales],0)
->> Products Sold = SUM(Sales_Data[Order Quantity])
->> Profit = SUM(Sales_Data[Profit]) 
->> Profit LY = CALCULATE([Profit], SAMEPERIODLASTYEAR(DateTable[Date]))
->> Profit Vs LY = [Profit]- [Profit LY]
->> Profit vs LY % = [Profit Vs LY]/[Profit]
->> Profit Margin = DIVIDE([Profit],[Sales],0)
->> Total Cost = SUM(Sales_Data[Total Cost]) 
+ Sales vs py % = DIVIDE([Sales vs PY],[Sales],0)
+ Products Sold = SUM(Sales_Data[Order Quantity])
+ Profit = SUM(Sales_Data[Profit]) 
+ Profit LY = CALCULATE([Profit], SAMEPERIODLASTYEAR(DateTable[Date]))
+ Profit Vs LY = [Profit]- [Profit LY]
+ Profit vs LY % = [Profit Vs LY]/[Profit]
+ Profit Margin = DIVIDE([Profit],[Sales],0)
+ Total Cost = SUM(Sales_Data[Total Cost]) 
 
 ### Snapshot of Sales Dashboard (PowerBI Desktop)
 
-![Sales Dashboard](https://github.com/yoga9/PowerBI_Sales-Dashboard/assets/80407876/3ba7121a-9c79-400d-af92-149fb72a72d3)
+![Sales Dashboard-1](https://github.com/yoga9/PowerBI_Sales-Dashboard/assets/80407876/d4a4c764-c45e-4cc1-a965-fec9b832e913)
 
 ### Snapshot of Custom Tooltip - Hide
 1) Sales By Product and Comparing it with last year’s Sales visual have the capabilities to view, Custom tooltip page it shows Profit, Profit Margin, Sales of top 5 Suburb as a single tooltip view.
@@ -97,7 +97,7 @@ Sales vs py % = DIVIDE([Sales vs PY],[Sales],0)
 ### Snapshot of Detail Page - Hide
 1) With the help of the Drill through features in Power BI to view the Detailed page. It’s a fantastic approach to obtain a more detailed look at the entity data you choose for your Drill through the filter.
 
-![Detail Page](https://github.com/yoga9/PowerBI_Sales-Dashboard/assets/80407876/9f77ff7f-3096-4c28-bd04-e87ad5930c13)
+![Detail Page-1](https://github.com/yoga9/PowerBI_Sales-Dashboard/assets/80407876/1786df75-f78a-4eac-a062-7318baed2024)
 
 
 Conclusion of Power BI Sales Dashboard Project:
