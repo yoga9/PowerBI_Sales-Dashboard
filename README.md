@@ -44,7 +44,7 @@ ADDCOLUMNS (
 ![Overview Page](https://github.com/user-attachments/assets/eb62792b-9dcb-439b-99df-0a14cc383d6c)
 
 
-### Snapshot of Order Detail Page - Hide
+### Snapshot of Order Detail Page
 With the help of the Filter functionality in Power BI to view the Detailed page. It’s a fantastic approach to obtain a more detailed look at the entity data you choose for your Drill through the filter.
 
 ![Order Details Page](https://github.com/user-attachments/assets/082022e4-210c-4606-95d1-a337fa36288b)
