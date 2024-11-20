@@ -1,5 +1,17 @@
+# SuperStore Sales Dataset 2019-2022: Data Analysis PowerBI Report
 
-# Sales Dashboard
+#### Introduction
+The SuperStore dataset comprises a comprehensive sales record from a superstore, containing 9,994 entries across 19 distinct fields. The dataset includes order details, anonymized customer information, product specifics, and financial metrics. This report analyzes various aspects of the dataset to extract meaningful insights.
+
+#### Data Overview
+The dataset includes the following columns:
+
+- **Order Details**: `order_id`, `order_date`, `ship_date`
+- **Customer Information**: `customer`
+- **Product Details**: `manufactory`, `product_name`
+- **Segmentation**: `segment`, `category`, `subcategory`
+- **Geographical Information**: `region`, `zip`, `city`, `state`, `country`
+- **Financial Metrics**: `discount`, `profit`, `quantity`, `sales`, `profit_margin`
 
 **The Objective of the Sales Dashboard / Business Problem:**
 
