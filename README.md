@@ -127,4 +127,7 @@ Here are the key insights summarized for each Insights:
 
 3.6) Orders by Top 10 Customers: Emily Phan is the top customer with 8 orders.
 
-Overall, The Sales dashboard effectively presents key metrics and insights through a combination of KPI, charts, graphs, and maps , for tracking and analyzing sales performance.
+#### Conclusion
+The SuperStore dataset provides valuable insights into sales performance, profitability, orders, and customer purchasing behavior. These insights can guide strategic decisions in inventory management, marketing, and sales optimization to enhance overall business performance. Overall, The Sales dashboard effectively presents key metrics and insights through a combination of KPI, charts, graphs, and maps for tracking and analyzing sales performance.
+
+Dataset Link: https://www.kaggle.com/datasets/timchant/supstore-dataset-2019-2022/data
