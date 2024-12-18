@@ -53,11 +53,11 @@ ADDCOLUMNS (
 5) Develop Reports in Power BI Desktop - Use the Power BI Desktop application to create reports based on the data model. Add visualizations such as KPI cards, map, charts, tables to represent the data effectively. Apply filters, slicers, and drill-through functionalities to allow users to interact with the data.
 
 
-### Snapshot of Overwiew Dashboard Page (PowerBI Desktop)
+### Snapshot of Superstore Dashboard Page (PowerBI Desktop)
 
 The dashboard typically includes various visual elements like charts, graphs, and maps to represent data insights. The dynamic feature represent sales,profit,orders insights:
 
-Sales Overview: A summary of total sales, profit, and orders with % increase compared with Previous year.
+Sales Overview: A summary of total sales, profit, and orders with % increase/decrease compared with Previous year.
 
 Geographical Distribution: Maps showing sales distribution across different states.
 
