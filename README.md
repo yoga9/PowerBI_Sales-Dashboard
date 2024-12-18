@@ -69,19 +69,15 @@ Category and Sub-Category Performance: Charts showing sales, profit and orders b
 
 These visuals elements help in quickly understanding the key metrics and trends.
 
-**Sales Insights**
-![Overview Page](https://github.com/user-attachments/assets/eb62792b-9dcb-439b-99df-0a14cc383d6c)
+### Superstore Sales Insights
+Defaultly Sales Insights shown while open the report with repect to the selected date range, likewise able to view Profit and Order metics based on the dynamic parameter selection.
 
-**Profit Insights**
-![Overview Page-Profit Insights](https://github.com/user-attachments/assets/6de3a07b-142a-456f-aac2-c66bbc9840a9)
-
-**Orders Insights**
-![Overview Page-Orders Insights](https://github.com/user-attachments/assets/f752543c-3c69-42b7-8e95-968edc155dcb)
+![image](https://github.com/user-attachments/assets/00d88939-0373-4346-b1f9-3b4732706219)
 
 ### Snapshot of Order Detail Page
 With the help of the Custom Slicer Panel, Filter and Bookmark functionality in Power BI to view the Detailed page. It’s a fantastic approach to obtain a more detailed look at the entity data in granular level.
 
-![Order Details Page](https://github.com/user-attachments/assets/7f245363-83a1-4b6d-be55-1b8c4b2013b2)
+![image](https://github.com/user-attachments/assets/1615bc90-c5d6-413f-81f4-cd500d1872d5)
 
 **Conclusion of Power BI Superstore Sales Dashboard Project:**
 
